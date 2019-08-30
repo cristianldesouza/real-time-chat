@@ -1,0 +1,25 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "Repositório criado com intuito de exercitar chats em tempo real com NodeJS e Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianldesouza/real-time-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianldesouza/real-time-chat/issues"
+  },
+  "homepage": "https://github.com/cristianldesouza/real-time-chat#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
