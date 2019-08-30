@@ -1,0 +1,1 @@
+Repositório criado com intuito de exercitar chats em tempo real com NodeJS e Socket.io 
